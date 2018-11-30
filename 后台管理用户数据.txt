@@ -1,0 +1,13 @@
+{
+    "_id" : ObjectId("5bad02fb45230414fc3edbd5"),
+    "username" : "laoxiao666",
+    "password" : "e10adc3949ba59abbe56e057f20f883e",
+    "userTel" : "13488899965",
+    "email" : "111@qq.com",
+    "juse" : "超级管理员",
+    "dateTime" : "2018/9/28",
+    "nickname" : "王大锤",
+    "gender" : "男",
+    "imgurl" : "",
+    "desc" : "都很低额偶发念佛你呢"
+}
